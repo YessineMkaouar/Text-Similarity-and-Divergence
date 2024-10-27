@@ -1,4 +1,4 @@
-# Analyse Sémantique Comparée de Textes avec Similarité Lexicale, Embeddings et LLM
+# Analyse Sémantique des Idées Similaires et Divergentes entre Documents Textuels 
 
 ## Description du Projet
 Ce projet propose une approche pour comparer le contenu de deux documents en mettant en avant leurs idées communes et leurs différences. Grâce à des différents méthodes d’analyse de similarité (TF-IDF, Word2Vec, SBERT, LSA) et un modèle de langage (LLM), il permet d’identifier les points de convergence et de divergence entre textes de manière automatisée. Ce pipeline est pensé pour des applications telles que l'analyse d’articles scientifiques, de documents et d’autres contenus textuels étendus.
